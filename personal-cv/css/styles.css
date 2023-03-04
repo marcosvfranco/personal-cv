@@ -1,0 +1,23 @@
+body {
+    background-color: #FAFAFA;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    align-items: center;
+}
+
+hr {
+    border-style: none;
+    border-top: 8px dotted #1D242B;
+    /* background-color: #BDCDD6; */
+    width: 5%;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0077C0;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0077C0;
+}
